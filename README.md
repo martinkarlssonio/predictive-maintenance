@@ -14,7 +14,10 @@
 <center><img src="images/industrial_failure_ai.png" width=50%/></center>
 <br>
 Intention with this project is to provide a boilerplate for creating a predictive maintenance service. The project is divided into two parts, supervised and unsupervised machine learning. The supervised part will consider confirmed failures while the unsupervised part will look for anomalies in the sensor data that could indicate a failure. The unsupervised will look at the sensor data as a whole and how they correlate with each other.
+<br>
+
 <!-- CONTACT -->
+
 ## Contact
 
 ### Martin Karlsson
